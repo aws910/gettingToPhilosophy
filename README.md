@@ -1,5 +1,5 @@
 # gettingToPhilosophy
-My solution to the following code challenge:
+This is my solution to the code challenge outlined below, showcased at http://aws910.com/gtp
 
 Getting To Philosophy
 
